@@ -1,0 +1,14 @@
+.venv/
+.DS_Store
+__pycache__/
+.env
+migrations/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.swp
+*.swo
+
+# database testing
+test_db.py
